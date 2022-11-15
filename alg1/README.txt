@@ -1,0 +1,1 @@
+Vsechno z ALG1
