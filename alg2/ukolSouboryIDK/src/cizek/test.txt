@@ -1,0 +1,4 @@
+puvodni soubor: C:\Users\Dell\Documents\NetBeansProjects\ukolSouboryIDK\src\cizek\test.txt
+ab0d3G_ se vyskytuje 1
+k. se vyskytuje 1
+k. se vyskytuje 1
